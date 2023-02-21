@@ -13,7 +13,7 @@ body{
     border-radius: 15px;
     background-color: grey;
     position: absolute;
-    left: 197px;
+    left: 491px;
     top: 98px;
     width: 250px;
     height: 50px;
@@ -26,7 +26,7 @@ body{
 	border-radius: 15px;
 	background-color: cyan;
 	position: absolute;
-	left: 524px;
+	left: 811px;
 	top: 97px;
 	width: 250px;
 	height: 50px;
@@ -37,7 +37,7 @@ body{
   width:400px;
   height:250px;
   border:2px solid black;
-  border-radius:15px;
+  border-radius:30px;
   background-color: cyan;
   position:absolute;
   left:13px;
@@ -46,12 +46,12 @@ body{
 }
 
 #div-main2 {
-	width: 400px;
-	height: 250px;
-	border: 2px solid black;
-	border-radius: 15px;
 	background-color: cyan;
-	position: absolute;
-	left: 560px;
+	border: 2px solid #000;
+	border-radius: 30px;
 	bottom: 25px;
+	height: 250px;
+	position: absolute;
+	width: 400px;
+  left:835px;
 }
